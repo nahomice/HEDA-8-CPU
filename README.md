@@ -71,11 +71,11 @@ For a deep dive into the engineering choices, timing diagrams, and troubleshooti
 
 ## 👤 Author
 
-**[Your Name]** - *Lead Architect & Engineer*
+**[Nahom Wondale]** - *Lead Architect & Engineer*
 *   Designed ALU Logic & Flags
 *   Implemented Tri-State Bus System
 *   Designed Hardwired Control Unit
 *   Performed all Testing & Verification
 
 ---
-*Educational Project for [Your University/Course Name]*
+*Educational Project for [Addis Ababa Niveirsity/Computer Architechture & Organization]*
